@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "coreclr",
+            "request": "launch",
+            "name": "Launch AdventOfCode",
+            "program": "${workspaceFolder}/AdventOfCode/bin/Debug/net9.0/AdventOfCode.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/AdventOfCode",
+            "stopAtEntry": false
+        }
+    ]
+}
